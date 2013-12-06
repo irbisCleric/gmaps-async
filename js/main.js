@@ -21,14 +21,14 @@ $(function() {
 	});
 	
 	
-	$.ajax({
-             url:'data/maps_data.json',
-             dataType:'jsonp',
-             data:{userName:'Sergey',password:'qwerty'},
-             success:function(res) {
-             alert(res);
-          }
-            })
+//	$.ajax({
+//             url:'data/maps_data.json',
+//             dataType:'application/json',
+//             data:{userName:'Sergey',password:'qwerty'},
+//             success:function(res) {
+//             alert(res);
+//          }
+//    })
 });
 
 
