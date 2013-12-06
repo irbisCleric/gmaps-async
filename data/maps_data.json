@@ -1,17 +1,72 @@
-[
-	{
-	"longitude": 50.47671, 
-	"latitude": 30.498664, 
-	"content": "In Memoriam Antoine de Saint Exupery"
-	},
-	{
-	"longitude": 50.478435, 
-	"latitude": 30.492082, 
-	"content": "Nelson's Column"
-	},
-	{
-	"longitude": 50.476763, 
-	"latitude": 30.496263, 
-	"content": "Nelson's Column"
-	}
-]
+{ "maps_data":
+    [{ 
+        ltd: 49.2812668,
+        lng: -123.1035942,
+        address: "26 East Hastings Street, Vancouver, BC V6A 1M9, Canada"
+    },
+    { 
+        ltd: 49.2814064,
+        lng: -123.1025187,
+        address: "71 East Hastings Street, Vancouver, BC V6A 1M9, Canada"
+    },
+    {
+        ltd: 49.2812336,
+        lng: -123.1020622,
+        address: "122 East Hastings Street, Vancouver, BC V6A 4J1, Canada"
+    },
+    { 
+        ltd: 49.2813564,
+        lng: -123.1012253,
+        address: "138 East Hastings Street, Vancouver, BC V6A 4J1, Canada"
+    },
+    { 
+        ltd: 49.2811625,
+        lng: -123.0985032,
+        address: "242 East Hastings Street, Vancouver, BC V6A 1P1, Canada"
+    },
+    { 
+        ltd: 49.2814219,
+        lng: -123.0968273,
+        address: "329 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
+    },
+    { 
+        ltd: 49.281276,
+        lng: -123.0957023,
+        address: "381 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
+    },
+    { 
+        ltd: 49.2811153,
+        lng: -123.0957192,
+        address: "392 East Hastings Street, Vancouver, BC V6A 1P4, Canada"
+    },
+    { 
+        ltd: 49.2810952,
+        lng: -123.094915,
+        address: "418 East Hastings Street, Vancouver, BC V6A 1P5, Canada"
+    },
+    { 
+        ltd: 49.2812447,
+        lng: -123.0935143,
+        address: "475 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
+    },
+    { 
+        ltd: 49.2810584,
+        lng: -123.0923323,
+        address: "550 East Hastings Street, Vancouver, BC V6A 1P8, Canada"
+    },
+    { 
+        ltd: 49.2812044,
+        lng: -123.0911435,
+        address: "615 East Hastings Street, Vancouver, BC V6A 4J9, Canada"
+    },
+    { 
+        ltd: 49.2811891,
+        lng: -123.0904141,
+        address: "647 East Hastings Street, Vancouver, BC V6A 4J9, Canada"
+    },
+    { 
+        ltd: 49.2811576,
+        lng: -123.0887649,
+        address: "715 East Hastings Street, Vancouver, BC V6A 1R8, Canada"
+    }]
+}
