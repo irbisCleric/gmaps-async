@@ -2,39 +2,24 @@
 	"maps_data":
 	[
 		{
-			"address": "779 Hausman Street, Oasis, Oregon, 411",
-			"latitude": -61.199892,
-			"longitude": -15.670603
+			"address": "Офис SuperDeal",
+			"latitude": 50.47671,
+			"longitude": 30.498664
 		},
 		{
-			"address": "319 Tapscott Avenue, Floris, California, 8728",
-			"latitude": -88.995491,
-			"longitude": 125.710516
+			"address": "Какое-то здание",
+			"latitude": 50.475114,
+			"longitude": 30.497908
 		},
 		{
-			"address": "188 Plymouth Street, Yogaville, Nevada, 9209",
-			"latitude": 43.206372,
-			"longitude": -133.790634
+			"address": "Метро Тараса Шевченко",
+			"latitude": 50.473513,
+			"longitude": 30.50491
 		},
 		{
-			"address": "114 Bayview Avenue, Greenbush, Virginia, 5073",
-			"latitude": -76.484077,
-			"longitude": -82.741995
-		},
-		{
-			"address": "789 Harwood Place, Yorklyn, Arkansas, 5290",
-			"latitude": 14.541816,
-			"longitude": 170.272167
-		},
-		{
-			"address": "876 Chestnut Street, Sussex, Iowa, 936",
-			"latitude": 17.115975,
-			"longitude": -42.488168
-		},
-		{
-			"address": "862 Meadow Street, Wakarusa, Mississippi, 5900",
-			"latitude": 73.391143,
-			"longitude": -70.405928
+			"address": "Метро Дарница",
+			"latitude": 50.455929,
+			"longitude": 30.612911
 		}
 	]
 }
