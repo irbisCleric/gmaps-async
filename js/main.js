@@ -9,16 +9,37 @@ else {
 }
 
 $(function () {
+	
 	$.getJSON("data/maps_data.json", function (data) {
 		console.log(data);
 		for (var i = 0; i < data.maps_data.length; i += 1) {
 			$('#maps_data')
-				.append('<tr><td>' + data.maps_data[i].ltd + '</td><td>' +
-						data.maps_data[i].lng +
-						'</td><td>' +
-						data.maps_data[i].address + '</td><tr>');
+				.append('<tr><td>' +
+					data.maps_data[i].latitude + '</td><td>' +
+					data.maps_data[i].longitude + '</td><td>' +
+					data.maps_data[i].address + '</td><tr>');
 		}
     });
+    
+
+	//var jqxhr = $.ajax({
+	//	type: "GET",
+	//	//url: "data/maps_data.json",
+	//	url: "https://api.github.com/users/mralexgray/repos",
+	//	dataType: "json"
+	//})
+	//.done(function () {
+	//	alert("success");
+	//})
+	//.fail(function () {
+	//	alert("error");
+	//})
+	//.always(function () {
+	//	alert("complete");
+	//});
+	//jqxhr.always(function () {
+	//	alert("second complete");
+	//});
 });
 
 

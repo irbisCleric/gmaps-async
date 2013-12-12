@@ -1,72 +1,37 @@
-{ "maps_data":
-    [{
-        ltd: 49.2812668,
-        lng: -123.1035942,
-        address: "26 East Hastings Street, Vancouver, BC V6A 1M9, Canada"
-    },
-    { 
-        ltd: 49.2814064,
-        lng: -123.1025187,
-        address: "71 East Hastings Street, Vancouver, BC V6A 1M9, Canada"
-    },
-    {
-        ltd: 49.2812336,
-        lng: -123.1020622,
-        address: "122 East Hastings Street, Vancouver, BC V6A 4J1, Canada"
-    },
-    { 
-        ltd: 49.2813564,
-        lng: -123.1012253,
-        address: "138 East Hastings Street, Vancouver, BC V6A 4J1, Canada"
-    },
-    { 
-        ltd: 49.2811625,
-        lng: -123.0985032,
-        address: "242 East Hastings Street, Vancouver, BC V6A 1P1, Canada"
-    },
-    { 
-        ltd: 49.2814219,
-        lng: -123.0968273,
-        address: "329 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
-    },
-    { 
-        ltd: 49.281276,
-        lng: -123.0957023,
-        address: "381 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
-    },
-    { 
-        ltd: 49.2811153,
-        lng: -123.0957192,
-        address: "392 East Hastings Street, Vancouver, BC V6A 1P4, Canada"
-    },
-    { 
-        ltd: 49.2810952,
-        lng: -123.094915,
-        address: "418 East Hastings Street, Vancouver, BC V6A 1P5, Canada"
-    },
-    { 
-        ltd: 49.2812447,
-        lng: -123.0935143,
-        address: "475 East Hastings Street, Vancouver, BC V6A 1P7, Canada"
-    },
-    { 
-        ltd: 49.2810584,
-        lng: -123.0923323,
-        address: "550 East Hastings Street, Vancouver, BC V6A 1P8, Canada"
-    },
-    { 
-        ltd: 49.2812044,
-        lng: -123.0911435,
-        address: "615 East Hastings Street, Vancouver, BC V6A 4J9, Canada"
-    },
-    { 
-        ltd: 49.2811891,
-        lng: -123.0904141,
-        address: "647 East Hastings Street, Vancouver, BC V6A 4J9, Canada"
-    },
-    { 
-        ltd: 49.2811576,
-        lng: -123.0887649,
-        address: "715 East Hastings Street, Vancouver, BC V6A 1R8, Canada"
-    }]
-}
+[
+	{
+		"address": "779 Hausman Street, Oasis, Oregon, 411",
+		"latitude": -61.199892,
+		"longitude": -15.670603
+	},
+	{
+		"address": "319 Tapscott Avenue, Floris, California, 8728",
+		"latitude": -88.995491,
+		"longitude": 125.710516
+	},
+	{
+		"address": "188 Plymouth Street, Yogaville, Nevada, 9209",
+		"latitude": 43.206372,
+		"longitude": -133.790634
+	},
+	{
+		"address": "114 Bayview Avenue, Greenbush, Virginia, 5073",
+		"latitude": -76.484077,
+		"longitude": -82.741995
+	},
+	{
+		"address": "789 Harwood Place, Yorklyn, Arkansas, 5290",
+		"latitude": 14.541816,
+		"longitude": 170.272167
+	},
+	{
+		"address": "876 Chestnut Street, Sussex, Iowa, 936",
+		"latitude": 17.115975,
+		"longitude": -42.488168
+	},
+	{
+		"address": "862 Meadow Street, Wakarusa, Mississippi, 5900",
+		"latitude": 73.391143,
+		"longitude": -70.405928
+	}
+]
