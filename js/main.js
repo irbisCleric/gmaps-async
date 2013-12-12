@@ -1,22 +1,23 @@
-/*global google*/
-//"use strict";
+/*global google, global $*/
+"use strict";
 
-if(typeof jQuery!=='undefined'){
+if (typeof jQuery !== 'undefined') {
     console.log('jQuery Loaded');
 }
-else{
+else {
     console.log('not loaded yet');
 }
 
-$(function() {
-	$.getJSON( "data/maps_data.json", function( data ) {
-            for (var i = 0; i < data.users.length; i += 1) {
-                $('#maps_data')
-					.append('<tr><td>' + data.maps_data[i].ltd + '</td><td>' +
-							data.maps_data[i].lng +
-							'</td><td>' +
-							data.maps_data[i].address + '</td><tr>');
-            }
+$(function () {
+	$.getJSON("data/maps_data.json", function (data) {
+		console.log(data);
+		for (var i = 0; i < data.maps_data.length; i += 1) {
+			$('#maps_data')
+				.append('<tr><td>' + data.maps_data[i].ltd + '</td><td>' +
+						data.maps_data[i].lng +
+						'</td><td>' +
+						data.maps_data[i].address + '</td><tr>');
+		}
     });
 });
 
